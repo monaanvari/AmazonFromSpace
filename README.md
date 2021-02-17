@@ -4,7 +4,7 @@ Forest depletion is among the leading factors exacerbating climate change. In th
 
 Trees absorb CO2 when they are growing, but dead trees release it back to the atmosphere. New studies suggest that one fifth of the Amazon rainforest is emitting more CO2 than it absorbs.
 
-In this project, you will blah blah blah
+In this project you will perform multi-label classification task on a dataset consisting of satelite iimagery of the Amazon basin. The notebook explains how to preprocess the data, create a base model and adopt improvements.
 
 use multilabel image classification techniques on a dataset consisting of satellite images from the amazon rainforest to help policy-makers and other stakeholders understand atmospheric conditions and the effects of human activity in the amazon basin. After completing this project you will be able to process large amounts of visual satellite data, understand multi-label classification tasks and develop a baseline AI model from scratch then use various techniques to improve model performance.
 
